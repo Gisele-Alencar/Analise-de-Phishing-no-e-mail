@@ -34,6 +34,8 @@ A primeira coisa que fiz foi olhar o código por trás do e-mail (cabeçalho). D
 
 <img width="1321" height="654" alt="image" src="https://github.com/user-attachments/assets/b61cbc99-debd-4c9a-87c8-34125bf750dd" />
 
+##
+<p align="center">© 2026 - Gisele Alencar</p>
 
 
 ---
@@ -79,4 +81,7 @@ Nesta investigação prática, foi possível atingir os seguintes resultados:
 - Identificação exata de como o vírus agia (escondendo-se e pausando por 50 segundos para evitar detecção).
 - Coleta de provas e Indicadores de Comprometimento (IPs e links perigosos).
 
-@2026 Gisele Alencar
+##
+
+<p align="center">© 2026 - Gisele Alencar</p>
+
